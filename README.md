@@ -1,5 +1,5 @@
 # Insta-Bot
-This is an instagram bot written with selenium. It would follow 15 followers per hour. and you can also specify a maximum number so if it wont follow more than that number (it's not accurate tho)<br>
+This is an instagram bot written with selenium. It would follow 15 followers per hour. and you can also specify a maximum number so if it will also unfollow 15 users in the same hour when it reaches the max (it's not accurate tho)<br>
 It follows from the followers of the pages you tell and unfollows from the followed ones (not your own followings). And everytime it follows or unfollows someone it puts the log in a file called results.txt
 
 # How-To-Use
